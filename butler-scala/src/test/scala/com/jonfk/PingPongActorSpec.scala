@@ -1,4 +1,4 @@
-package com.example
+package com.jonfk
 
 import akka.actor.ActorSystem
 import akka.actor.Actor
